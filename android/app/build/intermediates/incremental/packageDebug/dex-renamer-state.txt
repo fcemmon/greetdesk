@@ -1,0 +1,7 @@
+#Fri Feb 17 20:11:44 EET 2017
+base.0=/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3271ce1b845870326de83846b0eab81c7a2b6d80
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_816821b6d5cc688c41e2fd7f47e5b93a93f08dfc/classes.dex
+base.1=/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_816821b6d5cc688c41e2fd7f47e5b93a93f08dfc
+file.0=/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3271ce1b845870326de83846b0eab81c7a2b6d80/classes.dex
